@@ -1,4 +1,4 @@
-module m7s.live/plugin/rtsp/v4
+module github.com/Stephen-Z/plugin-rtsp/v4
 
 go 1.18
 
